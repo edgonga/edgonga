@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 🤝 I’m looking for help with [https://www.barcelonactiva.cat/ca/itacademy-empreses?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=Empreses_Text_CAT&utm_campaign=IT_Academy](https://www.barcelonactiva.cat/ca/itacademy-empreses?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=Empreses_Text_CAT&utm_campaign=IT_Academy)
+<!-- - 🤝 I’m looking for help with [https://www.barcelonactiva.cat/ca/itacademy-empreses?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=Empreses_Text_CAT&utm_campaign=IT_Academy](https://www.barcelonactiva.cat/ca/itacademy-empreses?utm_source=SEM&utm_medium=Cercadors&utm_content=SEM&utm_term=Empreses_Text_CAT&utm_campaign=IT_Academy) -->
 
 - 📫 How to reach me **gonzalez.edu.duc@gmail.com**
 
